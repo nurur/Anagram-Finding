@@ -1,8 +1,8 @@
-Anagram-Finding
+AnagramFinding-R.vs.Python
 ===============
 
-Anagram of a word that contain the same set of letters of a given word. The 
-letters in the anagram and in the word appear in different orders  
+Anagram of a word that contain the same set of letters of a given word. 
+The letters in the anagram and in the word appear in different orders  
  
 Noe that the way the codes are written there should be no word within the 
 string that can have an apostroph! To avoid this either remove it or put 
